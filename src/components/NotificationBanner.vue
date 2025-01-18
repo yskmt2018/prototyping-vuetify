@@ -1,0 +1,12 @@
+<!-- TODO
+ノティフィケーションバナー
+
+ウェブサイト全体に関わる、またはページや要素単位における重要度の高い情報を、ユーザーの操作に関わらず、ウェブサイト側からユーザーへ提示する場合に用いる通知バナーです。
+https://design.digital.go.jp/components/notification-banner/
+-->
+
+<script setup lang="ts"></script>
+
+<template></template>
+
+<style lang="css" scoped></style>
