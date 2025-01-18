@@ -5,8 +5,15 @@
 https://design.digital.go.jp/components/input-text/
 -->
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+defineProps<{}>();
+defineEmits<{}>();
+defineModel<{}>();
+defineExpose<{}>();
+</script>
 
-<template></template>
+<template>
+  <div></div>
+</template>
 
 <style lang="css" scoped></style>
