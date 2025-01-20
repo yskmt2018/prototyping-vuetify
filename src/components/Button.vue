@@ -1,7 +1,8 @@
 <!-- TODO
 ボタン
-
 ボタンは、主にアクション実行またはページ遷移のためのトリガーとして使用します。
+
+出典：デジタル庁デザインシステムウェブサイト
 https://design.digital.go.jp/components/button/
 -->
 

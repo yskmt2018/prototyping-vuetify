@@ -1,7 +1,8 @@
 <!-- TODO
 セレクトボックス
-
 セレクトボックスは、複数の選択肢を提供するフォームコントロールです。
+
+出典：デジタル庁デザインシステムウェブサイト
 https://design.digital.go.jp/components/select/
 -->
 
