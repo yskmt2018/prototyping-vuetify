@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "MS-CEINTL.vscode-language-pack-ja",
+    "Vue.volar",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}

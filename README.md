@@ -34,3 +34,9 @@ npm create vuetify@latest
  Would you like to install dependencies with yarn, npm, pnpm, or bun? # npm
  Install Dependencies? # Yes
 ```
+
+## リファレンス
+
+- [Vue](https://ja.vuejs.org/)
+
+- [Vuetify](https://vuetifyjs.com/ja/)
