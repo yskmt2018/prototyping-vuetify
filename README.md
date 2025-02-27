@@ -1,6 +1,6 @@
 # prototyping-vuetify
 
-Vue & Vuetify によるフロントエンド・プロトタイピング
+Vue と Vuetify によるフロントエンド・プロトタイピング
 
 ## 環境構築
 

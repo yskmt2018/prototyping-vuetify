@@ -31,7 +31,7 @@ const selectedPrivacy = ref<string[]>([]);
     <v-app-bar>
       <v-img src="/src/assets/logo.svg" max-width="64" class="mx-4" />
       <v-app-bar-title>
-        Vue & Vuetify によるフロントエンド・プロトタイピング
+        VueとVuetifyによるフロントエンド・プロトタイピング
       </v-app-bar-title>
     </v-app-bar>
 
