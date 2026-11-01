@@ -1,6 +1,8 @@
 {
   "recommendations": [
-    "MS-CEINTL.vscode-language-pack-ja",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "ms-ceintl.vscode-language-pack-ja",
     "Vue.volar",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint"
